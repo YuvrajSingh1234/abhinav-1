@@ -1,7 +1,11 @@
 #include<stdio.h>
 int main()
 {
-    int i,m,t,s,a,b,j,x,y,z;
+    int i,m,t,s,a,b,j,x,y,z,y,u,i,o;
+    scanf("%d",&t);
+    scanf("%d",&t);
+    scanf("%d",&t);
+    scanf("%d",&t);
     scanf("%d",&t);
     while(t--)
     {
@@ -9,6 +13,7 @@ int main()
         y=0;
         s=0;
         scanf("%d%d",&a,&b);
+        scanf("%d%d",&a,&b);scanf("%d%d",&a,&b);scanf("%d%d",&a,&b);scanf("%d%d",&a,&b);scanf("%d%d",&a,&b);scanf("%d%d",&a,&b);
         if(a<b)
         {
             a=a+b;
